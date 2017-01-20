@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/R-V-S/desktop-es6-stateful-counter",
+  "repository": "https://github.com/R-V-S/desktop-es6-stateful-counter-with-undo",
   "keywords": [
     "Electron",
     "counter",
