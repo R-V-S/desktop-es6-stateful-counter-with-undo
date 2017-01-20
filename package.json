@@ -1,7 +1,7 @@
 {
-  "name": "desktop-es6-stateful-counter",
+  "name": "desktop-es6-stateful-counter-with-undo",
   "version": "1.0.0",
-  "description": "A simple, stateful desktop counter app built with Electron",
+  "description": "A simple, stateful desktop counter app with undo/redo. Built with Electron.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
